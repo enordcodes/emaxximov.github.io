@@ -13,8 +13,8 @@ en: &DEFAULT_EN
   header:
     title: Добро пожаловать на мою страницу!<br>Меня зовут Анатолий Максимов, я математик-программист
     text: 
-    button: Информация
-    buttonlink: "#skills"
+    button: Связаться
+    buttonlink: "#contact"
 
   services:
     title: "Навыки"

@@ -1,14 +1,14 @@
 ---
 title: Научная деятельность
 subtitle: 
-image: assets/img/portfolio/05-thumbnail.jpg
-alt: 05-thumbnail.jpg
+image: assets/img/portfolio/ptz.jpg
+alt: ptz.jpg
 
 caption:
   title: Научная деятельность
   subtitle: 
-  thumbnail: assets/img/portfolio/05-thumbnail.jpg
-  alt: 05-thumbnail.jpg
+  thumbnail: assets/img/portfolio/ptz.jpg
+  alt: ptz.jpg
 ---
 
 Область научных интересов --- вероятностные графические модели, алгебраические байесовские сети, логико-вероятностный вывод, комбинаторный анализ, теория графов, алгоритмы, сложность алгоритмов, математическая химия.
