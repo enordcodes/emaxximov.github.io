@@ -18,6 +18,8 @@ en: &DEFAULT_EN
     - title: "Деятельность"
       section: portfolio
     - title: "Образование"
+      section: news
+    - title: "Новое"
       section: education
     - title: "Связаться"
       section: contact

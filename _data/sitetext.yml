@@ -86,7 +86,12 @@ en: &DEFAULT_EN
   #       logo: assets/img/clients/creative-market.jpg
 
   portfolio:
-    title: "Награды и проекты"
+    title: "Деятельность"
+    section: portfolio
+    closebutton: "Закрыть"
+
+  news:
+    title: "Новое"
     section: portfolio
     closebutton: "Закрыть"
 

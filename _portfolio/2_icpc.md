@@ -1,4 +1,5 @@
 ---
+is_activity: True
 title: Спортивное программирование 
 subtitle: Действующий участник соревнований и сборов по спортивному программированию
 image: assets/img/portfolio/urfu-2019.jpg
