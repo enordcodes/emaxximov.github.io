@@ -27,7 +27,7 @@ author     : Anatolii Maksimov
 locale: "en-US" # See available languages in _data/sitetext.yml
 
 analytics:
-  google: G-03225KML68
+  google: UA-204280306-1
 
 collections:
   portfolio:
