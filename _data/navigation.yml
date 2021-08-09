@@ -17,9 +17,9 @@ en: &DEFAULT_EN
       section: timeline
     - title: "Деятельность"
       section: portfolio
-    - title: "Образование"
-      section: news
     - title: "Новое"
+      section: news
+    - title: "Образование"
       section: education
     - title: "Связаться"
       section: contact

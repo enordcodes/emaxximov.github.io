@@ -92,7 +92,7 @@ en: &DEFAULT_EN
 
   news:
     title: "Новое"
-    section: portfolio
+    section: news
     closebutton: "Закрыть"
 
   team:
