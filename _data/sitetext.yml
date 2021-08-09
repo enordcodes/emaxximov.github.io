@@ -22,13 +22,13 @@ en: &DEFAULT_EN
     section: skills
     list:
       - title: "Языки"
-        desc: "C++, Python, C#"
+        desc: "C++, Python, Java, C#"
         icon: fas fa-laptop-code
       - title: "Математика"
         desc: "Алгоритмы, структуры данных, теория графов, комбинаторика, теория вероятностей"
         icon: fas fa-square-root-alt
       - title: "Другое"
-        desc: "LaTeX, MPI"
+        desc: "LaTeX, pytest, MPI"
         icon: fas fa-brain
 
   timeline:
