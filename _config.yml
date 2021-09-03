@@ -18,7 +18,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : Anatolii Maksimov
 email      : agm.main@yandex.ru #this is also the email contact forms will go to
-description: "Site description"
+description: "Website of Anatolii Maksimov"
 author     : Anatolii Maksimov
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
