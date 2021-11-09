@@ -38,10 +38,10 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "Endorphina"
+      - title: "Nord.Codes"
         year: "март 2021-н.в."
         desc: "***Математик-программист***.<br> Разработка и реализация математических моделей игр (социальные механики, слотовые, карточные, рулетки, и прочее). Анализ и классификация существующих игр. Поддержка процесса сертификации игровых моделей."
-        image: assets/img/timeline/endorphina.png
+        image: https://nord.codes/wp-content/uploads/2018/07/cropped-nordcodes_logo_header-1.png
         alt:
       - title: "СПИИРАН"
         year: "март 2019-март 2021"
